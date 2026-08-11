@@ -1,0 +1,6 @@
+{
+  "name": "Walmart Super App",
+  "description": "A comprehensive digital operating system for everyday shopping, grocery, store mode, pickup/delivery, Walmart+, pharmacy, and Walmart Pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
